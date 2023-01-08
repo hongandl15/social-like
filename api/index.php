@@ -9,7 +9,7 @@
 <body>
     <form action="success.php" method="post">
         Link post: <input type="text" name="link"><br>
-        Số lượng tương tác cần: <input type="number" name="quantity" min="50" max="50"><br>
+        Số lượng tương tác cần: <input type="number" name="quantity" min="50" max="100"><br>
         Dịch vụ:
         <select name="services" id="services">
             <option value="199">Like</option>
